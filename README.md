@@ -51,7 +51,7 @@
  
   <details> 
  
-  <summary>       </summary>  
+  <summary>   升级技能等级    </summary>  
  
   -   ######
  
@@ -63,7 +63,7 @@
         
   <details> 
  
-  <summary>       </summary>  
+  <summary>    降低技能等级   </summary>  
  
   -   ######
  
