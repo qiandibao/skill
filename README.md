@@ -78,7 +78,7 @@
   
    <details> 
  
-  <summary>  预判技能   </summary>  
+  <summary>  快速预判思考技能   </summary>  
  
   -   ######
  
