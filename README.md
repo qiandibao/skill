@@ -4,7 +4,7 @@
  
   <details> 
  
-  <summary>   跟踪技能    </summary>  
+  <summary>   锁定目标技能    </summary>  
  
   -   ###### 保持适当距离  预判视野范围与动作  随机应变更换动作制作假象
  
