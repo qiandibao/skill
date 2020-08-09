@@ -96,6 +96,16 @@
 
   </details>
   
+  <details> 
+ 
+  <summary>   幽默技能    </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
   
    ## 等級划分技能       
  
