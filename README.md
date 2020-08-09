@@ -14,7 +14,7 @@
   
    <details> 
  
-  <summary>   隐藏技能    </summary>  
+  <summary>   隐藏存在感技能    </summary>  
  
   -   ######
  
