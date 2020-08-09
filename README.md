@@ -26,7 +26,7 @@
  
   <details> 
  
-  <summary>   分析信息技能    </summary>  
+  <summary>   分析信息    </summary>  
  
   -   ######
  
@@ -36,7 +36,7 @@
   
   <details> 
  
-  <summary>   识别时间技能    </summary>  
+  <summary>   识别时间    </summary>  
  
   -   ######
  
@@ -46,7 +46,7 @@
        
   <details> 
  
-  <summary>   识别地点技能    </summary>  
+  <summary>   识别地点    </summary>  
  
   -   ######
  
@@ -56,7 +56,7 @@
   
   <details> 
  
-  <summary>   识别人物技能    </summary>  
+  <summary>   识别人物    </summary>  
  
   -   ###### 人数 关系  穿着 状态 心情 手机
   
