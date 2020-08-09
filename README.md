@@ -12,16 +12,6 @@
 
   </details>
   
-    <details> 
- 
-  <summary>   跟踪技能    </summary>  
- 
-  -   ######
- 
-  -   ######
-
-  </details>
-  
    <details> 
  
   <summary>   隐藏存在感技能    </summary>  
