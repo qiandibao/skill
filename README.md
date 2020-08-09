@@ -78,7 +78,7 @@
   
    <details> 
  
-  <summary>  快速思考技能   </summary>  
+  <summary>  快速思考预判技能   </summary>  
  
   -   ######
  
@@ -88,7 +88,7 @@
   
    <details> 
  
-  <summary>  快速预判技能   </summary>  
+  <summary>  对比技能   </summary>  
  
   -   ######
  
