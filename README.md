@@ -2,12 +2,24 @@
  
   ## 观察技能       
  
- <details> 
+  <details> 
  
- <summary>       </summary>  
+  <summary>       </summary>  
  
- -   ######
+  -   ######
  
- -  ######
+  -   ######
 
- </details>
+  </details>
+ 
+   ## 分析技能       
+ 
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
