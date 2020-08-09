@@ -58,7 +58,7 @@
  
   <details> 
  
-  <summary>       </summary>  
+  <summary>   书写技能    </summary>  
  
   -   ######
  
@@ -68,7 +68,7 @@
        
   <details> 
  
-  <summary>       </summary>  
+  <summary>   口头表述技能    </summary>  
  
   -   ######
  
@@ -78,7 +78,7 @@
   
   <details> 
  
-  <summary>       </summary>  
+  <summary>   肢体语言    </summary>  
  
   -   ######  
   
