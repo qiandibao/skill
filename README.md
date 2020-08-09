@@ -151,6 +151,38 @@
 
   </details>
   
+   ## 自律技能       
+ 
+  <details> 
+ 
+  <summary>      </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+      
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
+   <details> 
+ 
+  <summary>      </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
      
  
   
