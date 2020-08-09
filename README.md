@@ -64,6 +64,28 @@
 
   </details>
   
+  ## 换位思考技能       
+ 
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
+   <details> 
+ 
+  <summary>     </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details> 
+   
    ## 沟通技能       
  
   <details> 
