@@ -45,3 +45,31 @@
   -   ######
 
   </details>
+  
+     
+     ## 分析技能       
+ 
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
+  </details>
+        
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
+
+  
