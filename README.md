@@ -67,6 +67,28 @@
 
   </details>
   
+   ## 手机应用技能       
+ 
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+      
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
      
  
   
