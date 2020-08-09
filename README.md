@@ -68,7 +68,7 @@
  
   <details> 
  
-  <summary>       </summary>  
+  <summary>   思维同步技能    </summary>  
  
   -   ######
  
