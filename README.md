@@ -78,14 +78,24 @@
   
    <details> 
  
-  <summary>  快速预判思考技能   </summary>  
+  <summary>  快速思考技能   </summary>  
  
   -   ######
  
   -   ######
 
   </details> 
-   
+  
+   <details> 
+ 
+  <summary>  快速预判技能   </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details> 
+  
    ## 沟通技能       
  
   <details> 
