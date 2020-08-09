@@ -175,7 +175,7 @@
   
    <details> 
  
-  <summary>   信息功能   </summary>  
+  <summary>   查看功能   </summary>  
  
   -   ######
  
