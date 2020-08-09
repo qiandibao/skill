@@ -4,7 +4,7 @@
  
   <details> 
  
-  <summary>   锁定目标技能    </summary>  
+  <summary>   锁定目标   </summary>  
  
   -   ###### 切换视野  预判视野范围与动作  随机应变更换动作制作假象
  
@@ -14,7 +14,7 @@
   
    <details> 
  
-  <summary>   存在感技能    </summary>  
+  <summary>   存在感    </summary>  
  
   -   ###### 切换意识状态 调整呼吸放松心情
  
