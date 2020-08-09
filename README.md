@@ -68,7 +68,7 @@
  
   <details> 
  
-  <summary>   思维同步技能    </summary>  
+  <summary>   思维同步    </summary>  
  
   -   ######
  
@@ -78,7 +78,7 @@
   
    <details> 
  
-  <summary>  快速思考预判技能   </summary>  
+  <summary>  快速思考预判   </summary>  
  
   -   ######
  
@@ -88,7 +88,7 @@
   
    <details> 
  
-  <summary>  对比技能   </summary>  
+  <summary>  对比   </summary>  
  
   -   ######
  
@@ -100,7 +100,7 @@
  
   <details> 
  
-  <summary>   书写技能    </summary>  
+  <summary>   书写    </summary>  
  
   -   ######
  
@@ -110,7 +110,7 @@
        
   <details> 
  
-  <summary>   口头表述技能    </summary>  
+  <summary>   口头表述    </summary>  
  
   -   ######
  
@@ -120,7 +120,7 @@
   
   <details> 
  
-  <summary>   肢体语言表达技能    </summary>  
+  <summary>   肢体语言表达   </summary>  
  
   -   ######  
   
@@ -130,7 +130,7 @@
   
   <details> 
  
-  <summary>   幽默技能    </summary>  
+  <summary>   幽默    </summary>  
  
   -   ######
  
