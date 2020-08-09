@@ -36,7 +36,7 @@
        
   <details> 
  
-  <summary>       </summary>  
+  <summary>   识别人物技能    </summary>  
  
   -   ######
  
@@ -49,19 +49,17 @@
  
   <details> 
  
-  <summary>   升级技能等级    </summary>  
+  <summary>   升级等级技能    </summary>  
  
   -   ######
  
   -   ######
 
   </details>
-  
-  </details>
-        
+      
   <details> 
  
-  <summary>    降低技能等级   </summary>  
+  <summary>    降低等级技能   </summary>  
  
   -   ######
  
