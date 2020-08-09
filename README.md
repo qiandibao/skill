@@ -26,7 +26,7 @@
  
   <details> 
  
-  <summary>   识别关系技能    </summary>  
+  <summary>   识别时间技能    </summary>  
  
   -   ######
  
@@ -36,7 +36,7 @@
        
   <details> 
  
-  <summary>   识别人物技能    </summary>  
+  <summary>   识别地点技能    </summary>  
  
   -   ######
  
@@ -46,7 +46,7 @@
   
   <details> 
  
-  <summary>   识别地点技能    </summary>  
+  <summary>   识别人物技能    </summary>  
  
   -   ######
  
