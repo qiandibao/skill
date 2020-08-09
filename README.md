@@ -54,6 +54,38 @@
 
   </details>
   
+   ## 沟通技能       
+ 
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+       
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######
+ 
+  -   ######
+
+  </details>
+  
+  <details> 
+ 
+  <summary>       </summary>  
+ 
+  -   ######  
+  
+  -   ######
+
+  </details>
+  
   
    ## 等級划分技能       
  
