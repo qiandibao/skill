@@ -14,7 +14,7 @@
   
    <details> 
  
-  <summary>   隐藏存在感技能    </summary>  
+  <summary>   存在感技能    </summary>  
  
   -   ###### 切换意识状态 切换视野接触程度 
  
