@@ -197,7 +197,7 @@
  
   <details> 
  
-  <summary>   锻炼身体技能   </summary>  
+  <summary>   锻炼身体 </summary>  
  
   -   ######
  
@@ -207,7 +207,7 @@
       
   <details> 
  
-  <summary>    反思技能   </summary>  
+  <summary>    反思  </summary>  
  
   -   ######
  
@@ -217,7 +217,7 @@
   
    <details> 
  
-  <summary>   反省技能   </summary>  
+  <summary>   反省   </summary>  
  
   -   ######
  
