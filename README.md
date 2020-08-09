@@ -71,7 +71,7 @@
  
   <details> 
  
-  <summary>   时间技能    </summary>  
+  <summary>   时间功能    </summary>  
  
   -   ######
  
@@ -81,7 +81,7 @@
       
   <details> 
  
-  <summary>   地图技能    </summary>  
+  <summary>   地图功能    </summary>  
  
   -   ######
  
