@@ -33,9 +33,7 @@
   -   ######
 
   </details>
-  
-  </details>
-        
+       
   <details> 
  
   <summary>       </summary>  
