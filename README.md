@@ -185,7 +185,7 @@
   
    <details> 
  
-  <summary>   查看功能   </summary>  
+  <summary>   攝影功能   </summary>  
  
   -   ######
  
