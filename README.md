@@ -128,16 +128,8 @@
 
   </details>
   
-  <details> 
- 
-  <summary>   幽默    </summary>  
- 
-  -   ######
- 
-  -   ######
 
-  </details>
-  
+
   
    ## 等級划分技能       
  
