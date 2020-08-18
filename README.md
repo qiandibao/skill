@@ -24,15 +24,6 @@
  
    ## 分析技能       
  
-  <details> 
- 
-  <summary>   分析信息    </summary>  
- 
-  -   ######
- 
-  -   ######
-
-  </details>
   
   <details> 
  
